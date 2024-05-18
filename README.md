@@ -1,6 +1,6 @@
 # Pong Game
 
-This is an enhanced implementation of the classic Pong game using Python and the Pygame library.
+This is the classic Pong game using Python and the Pygame library.
 
 ## Description
 
